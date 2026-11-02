@@ -30,7 +30,7 @@
   },
   "description": "Portfolio of K.B.S Srikar, presented as an Ubuntu 24.04 desktop in the browser (GNOME 46 on desktop, Ubuntu Touch on phones).",
   "author": "K.B.S Srikar",
-  "homepage": "https://os-portfolio.vercel.app",
+  "homepage": "https://kbssrikar-ubuntu.vercel.app",
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
   }

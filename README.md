@@ -4,7 +4,7 @@ The portfolio of **K.B.S Srikar**, a software engineer working across full-stack
 
 ![The desktop, with About Me behind the Projects window](docs/screenshots/desktop.jpg)
 
-> **Live site: [os-portfolio.vercel.app](https://os-portfolio.vercel.app)**
+> **Live site: [kbssrikar-ubuntu.vercel.app](https://kbssrikar-ubuntu.vercel.app)**
 
 ## Contents
 
