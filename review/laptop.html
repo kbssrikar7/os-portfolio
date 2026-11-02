@@ -1,0 +1,21 @@
+<!doctype html>
+<!-- Dev-only review harness: the site at 1366x768 (B07) and 1440x1000 (B02/B03), shown at half scale. -->
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Laptop review</title>
+<style>
+  body { margin: 0; background: #1b1b1b; color: #ddd; font: 13px system-ui, sans-serif; padding: 12px; display: flex; gap: 16px; align-items: flex-start; }
+  .frame { overflow: hidden; border-radius: 6px; }
+  .f1366 { width: 683px; height: 384px; }
+  .f1440 { width: 720px; height: 500px; }
+  iframe { border: 0; transform: scale(.5); transform-origin: 0 0; }
+</style>
+</head>
+<body>
+  <figure style="margin:0"><figcaption>1366×768, Projects maximized</figcaption>
+    <div class="frame f1366"><iframe id="l" src="/#/projects" width="1366" height="768"></iframe></div></figure>
+  <figure style="margin:0"><figcaption>1440×1000, About then Projects</figcaption>
+    <div class="frame f1440"><iframe id="d" src="/#/about" width="1440" height="1000"></iframe></div></figure>
+</body>
+</html>

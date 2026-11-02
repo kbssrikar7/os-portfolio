@@ -1,0 +1,261 @@
+{
+  "generatedAt": "2026-09-21T10:43:52Z",
+  "model": "jev-latest",
+  "projects": {
+    "cardiac-risk-stratification": {
+      "score": 3.24,
+      "scoreConfidence": 0.57,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.01,
+        "2": 0.1,
+        "3": 0.51,
+        "4": 0.38
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": true,
+      "demoableProbability": 0.9
+    },
+    "healthcare-qa-chatbot": {
+      "score": 3.86,
+      "scoreConfidence": 0.88,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.13,
+        "4": 0.87
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": true,
+      "demoableProbability": 0.94
+    },
+    "studyFlow--AI_Powered_Productivity_Suite": {
+      "score": 2.7,
+      "scoreConfidence": 0.69,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.33,
+        "3": 0.63,
+        "4": 0.04
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 1.0,
+      "demoable": true,
+      "demoableProbability": 0.93
+    },
+    "headphonesafety": {
+      "score": 2.68,
+      "scoreConfidence": 0.67,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.04,
+        "2": 0.28,
+        "3": 0.64,
+        "4": 0.04
+      },
+      "bucket": "systems-tooling",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "n8n-upi-payment-gateway-django": {
+      "score": 2.49,
+      "scoreConfidence": 0.55,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.13,
+        "2": 0.27,
+        "3": 0.58,
+        "4": 0.02
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 0.99,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "azure-cost-planner": {
+      "score": 0.84,
+      "scoreConfidence": 0.85,
+      "scoreProbabilities": {
+        "0": 0.17,
+        "1": 0.83,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 0.98,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "ensemble-heart-disease-prediction": {
+      "score": 1.3,
+      "scoreConfidence": 0.59,
+      "scoreProbabilities": {
+        "0": 0.09,
+        "1": 0.53,
+        "2": 0.36,
+        "3": 0.02,
+        "4": 0.0
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.04
+    },
+    "heart-attack-risk-ensemble": {
+      "score": 1.26,
+      "scoreConfidence": 0.68,
+      "scoreProbabilities": {
+        "0": 0.06,
+        "1": 0.62,
+        "2": 0.31,
+        "3": 0.01,
+        "4": 0.0
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": true,
+      "demoableProbability": 0.91
+    },
+    "house-price-prediction-app": {
+      "score": 1.26,
+      "scoreConfidence": 0.32,
+      "scoreProbabilities": {
+        "0": 0.23,
+        "1": 0.31,
+        "2": 0.42,
+        "3": 0.04,
+        "4": 0.0
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "handwritten-equation-solver": {
+      "score": 2.21,
+      "scoreConfidence": 0.67,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.09,
+        "2": 0.61,
+        "3": 0.29,
+        "4": 0.01
+      },
+      "bucket": "applied-ml",
+      "bucketConfidence": 1.0,
+      "demoable": true,
+      "demoableProbability": 0.93
+    },
+    "led_control_deploy": {
+      "score": 2.69,
+      "scoreConfidence": 0.61,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.04,
+        "2": 0.3,
+        "3": 0.58,
+        "4": 0.08
+      },
+      "bucket": "embedded-iot",
+      "bucketConfidence": 0.92,
+      "demoable": true,
+      "demoableProbability": 0.92
+    },
+    "TCS_IPA": {
+      "score": 0.83,
+      "scoreConfidence": 0.76,
+      "scoreProbabilities": {
+        "0": 0.23,
+        "1": 0.72,
+        "2": 0.05,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 0.71,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "ota-flasher": {
+      "score": 2.16,
+      "scoreConfidence": 0.51,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.21,
+        "2": 0.42,
+        "3": 0.36,
+        "4": 0.01
+      },
+      "bucket": "embedded-iot",
+      "bucketConfidence": 0.56,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "ytdlp-gui": {
+      "score": 1.13,
+      "scoreConfidence": 0.88,
+      "scoreProbabilities": {
+        "0": 0.0,
+        "1": 0.87,
+        "2": 0.13,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "bucket": "systems-tooling",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "BillFlow": {
+      "score": 1.97,
+      "scoreConfidence": 0.72,
+      "scoreProbabilities": {
+        "0": 0.01,
+        "1": 0.17,
+        "2": 0.67,
+        "3": 0.15,
+        "4": 0.0
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "shopify-analytics": {
+      "score": 2.08,
+      "scoreConfidence": 0.56,
+      "scoreProbabilities": {
+        "0": 0.01,
+        "1": 0.21,
+        "2": 0.48,
+        "3": 0.3,
+        "4": 0.0
+      },
+      "bucket": "full-stack",
+      "bucketConfidence": 0.87,
+      "demoable": false,
+      "demoableProbability": 0.03
+    },
+    "esp32-energy-meter-pcb": {
+      "score": 1.76,
+      "scoreConfidence": 0.27,
+      "scoreProbabilities": {
+        "0": 0.06,
+        "1": 0.39,
+        "2": 0.29,
+        "3": 0.26,
+        "4": 0.0
+      },
+      "bucket": "embedded-iot",
+      "bucketConfidence": 1.0,
+      "demoable": false,
+      "demoableProbability": 0.02
+    }
+  }
+}

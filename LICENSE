@@ -1,0 +1,23 @@
+Copyright (c) 2026 K.B.S Srikar. All rights reserved.
+
+This source code and its design, content and assets may not be copied,
+modified, distributed or used, in whole or in part, without the prior
+written permission of the copyright holder.
+
+Third-party material
+--------------------
+
+The following files are not covered by the notice above and remain under
+their own licenses:
+
+- public/ubuntu/: Yaru icons (CC BY-SA 4.0), Ubuntu wallpapers
+  (CC BY-SA 4.0), Plymouth spinner frames (GPL-2.0-or-later), and the Ubuntu
+  logo and Circle of Friends, which are trademarks of Canonical Ltd.
+  Details in public/ubuntu/ATTRIBUTION.md.
+- public/stack-icons/: skills-icons (MIT). Details in
+  public/stack-icons/ATTRIBUTION.md.
+- Ubuntu Sans and Ubuntu Sans Mono fonts: Ubuntu Font Licence 1.0, installed
+  from npm (@fontsource-variable).
+
+This project is an unofficial, personal recreation of the Ubuntu desktop and
+is not affiliated with or endorsed by Canonical Ltd.
